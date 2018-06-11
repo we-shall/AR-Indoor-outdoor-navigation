@@ -1,0 +1,13 @@
+# Blender v2.79 (sub 0) OBJ File: 'untitled.blend'
+# www.blender.org
+mtllib untitled.mtl
+o Plane
+v -0.008409 5.221538 0.998476
+v 1.810227 5.221538 -0.001524
+v -0.008409 5.221538 -1.001524
+v 0.618522 5.221538 -0.005879
+vn 0.0000 1.0000 0.0000
+usemtl None
+s off
+f 4//1 2//1 3//1
+f 1//1 2//1 4//1

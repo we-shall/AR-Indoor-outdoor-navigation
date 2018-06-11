@@ -1,0 +1,239 @@
+fileFormatVersion: 2
+guid: fb840dcfb9a20954f83e8bd138f43216
+timeCreated: 1526787666
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: bonnet_ok01
+    100002: boot_ok01
+    100004: bump_fro01
+    100006: bump_rea01
+    100008: chassis01
+    100010: door_lf
+    100012: door_lr_ok01
+    100014: door_rf
+    100016: door_rr_ok01
+    100018: HL_GLASS
+    100020: HLight
+    100022: Hlight01
+    100024: Hlight02
+    100026: inside01
+    100028: light01
+    100030: RearLglass01_pivot
+    100032: RearLglass_pivot
+    100034: Reflector
+    100036: reflector02
+    100038: seat01
+    100040: //RootNode
+    100042: wheel02_pivot
+    100044: wheel03_pivot
+    100046: wheel04_pivot
+    100048: wheel05_pivot
+    100050: windscre01
+    400000: bonnet_ok01
+    400002: boot_ok01
+    400004: bump_fro01
+    400006: bump_rea01
+    400008: chassis01
+    400010: door_lf
+    400012: door_lr_ok01
+    400014: door_rf
+    400016: door_rr_ok01
+    400018: HL_GLASS
+    400020: HLight
+    400022: Hlight01
+    400024: Hlight02
+    400026: inside01
+    400028: light01
+    400030: RearLglass01_pivot
+    400032: RearLglass_pivot
+    400034: Reflector
+    400036: reflector02
+    400038: seat01
+    400040: //RootNode
+    400042: wheel02_pivot
+    400044: wheel03_pivot
+    400046: wheel04_pivot
+    400048: wheel05_pivot
+    400050: windscre01
+    2100000: bonnet_ok01Mat
+    2100002: boot_ok01Mat
+    2100004: bump_fro01Mat
+    2100006: bump_rea01Mat
+    2100008: chassis01Mat
+    2100010: door_lfMat
+    2100012: door_lr_ok01Mat
+    2100014: door_rfMat
+    2100016: door_rr_ok01Mat
+    2100018: HL_GLASSMat
+    2100020: HLightMat
+    2100022: Hlight01Mat
+    2100024: Hlight02Mat
+    2100026: inside01Mat
+    2100028: light01Mat
+    2100030: RearLglass01_pivotMat
+    2100032: RearLglass_pivotMat
+    2100034: ReflectorMat
+    2100036: reflector02Mat
+    2100038: seat01Mat
+    2100040: wheel02_pivotMat
+    2100042: wheel03_pivotMat
+    2100044: wheel04_pivotMat
+    2100046: wheel05_pivotMat
+    2100048: windscre01Mat
+    2300000: bonnet_ok01
+    2300002: boot_ok01
+    2300004: bump_fro01
+    2300006: bump_rea01
+    2300008: chassis01
+    2300010: door_lf
+    2300012: door_lr_ok01
+    2300014: door_rf
+    2300016: door_rr_ok01
+    2300018: HL_GLASS
+    2300020: HLight
+    2300022: Hlight01
+    2300024: Hlight02
+    2300026: inside01
+    2300028: light01
+    2300030: RearLglass01_pivot
+    2300032: RearLglass_pivot
+    2300034: Reflector
+    2300036: reflector02
+    2300038: seat01
+    2300040: wheel02_pivot
+    2300042: wheel03_pivot
+    2300044: wheel04_pivot
+    2300046: wheel05_pivot
+    2300048: windscre01
+    3300000: bonnet_ok01
+    3300002: boot_ok01
+    3300004: bump_fro01
+    3300006: bump_rea01
+    3300008: chassis01
+    3300010: door_lf
+    3300012: door_lr_ok01
+    3300014: door_rf
+    3300016: door_rr_ok01
+    3300018: HL_GLASS
+    3300020: HLight
+    3300022: Hlight01
+    3300024: Hlight02
+    3300026: inside01
+    3300028: light01
+    3300030: RearLglass01_pivot
+    3300032: RearLglass_pivot
+    3300034: Reflector
+    3300036: reflector02
+    3300038: seat01
+    3300040: wheel02_pivot
+    3300042: wheel03_pivot
+    3300044: wheel04_pivot
+    3300046: wheel05_pivot
+    3300048: windscre01
+    4300000: bonnet_ok01
+    4300002: boot_ok01
+    4300004: bump_fro01
+    4300006: bump_rea01
+    4300008: chassis01
+    4300010: door_lf
+    4300012: door_lr_ok01
+    4300014: door_rf
+    4300016: door_rr_ok01
+    4300018: HL_GLASS
+    4300020: HLight
+    4300022: Hlight01
+    4300024: Hlight02
+    4300026: inside01
+    4300028: light01
+    4300030: RearLglass01_pivot
+    4300032: RearLglass_pivot
+    4300034: Reflector
+    4300036: reflector02
+    4300038: seat01
+    4300040: wheel02_pivot
+    4300042: wheel03_pivot
+    4300044: wheel04_pivot
+    4300046: wheel05_pivot
+    4300048: windscre01
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: c050811d91b654f3faacbb42ce6adc6c
+timeCreated: 1526753684
+licenseType: Free
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - aClips: {fileID: 8300000, guid: 5410d140e3d4c4d0d8c5fb4f44f3f221, type: 3}
+  - myAudioSource: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,175 @@
+fileFormatVersion: 2
+guid: 02f06f20a07b0439483f6d587b929939
+timeCreated: 1526760880
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: body
+    100002: clothing
+    100004: Game_Head
+    100006: Game_Hips
+    100008: Game_LeftArm
+    100010: Game_LeftFoot
+    100012: Game_LeftForeArm
+    100014: Game_LeftHand
+    100016: Game_LeftHandIndex1
+    100018: Game_LeftHandIndex2
+    100020: Game_LeftHandMiddle1
+    100022: Game_LeftHandMiddle2
+    100024: Game_LeftHandThumb1
+    100026: Game_LeftHandThumb2
+    100028: Game_LeftLeg
+    100030: Game_LeftShoulder
+    100032: Game_LeftUpLeg
+    100034: Game_Neck
+    100036: Game_RightArm
+    100038: Game_RightFoot
+    100040: Game_RightForeArm
+    100042: Game_RightHand
+    100044: Game_RightHandIndex1
+    100046: Game_RightHandIndex2
+    100048: Game_RightHandMiddle1
+    100050: Game_RightHandMiddle2
+    100052: Game_RightHandThumb1
+    100054: Game_RightHandThumb2
+    100056: Game_RightLeg
+    100058: Game_RightShoulder
+    100060: Game_RightUpLeg
+    100062: Game_Spine
+    100064: Game_Spine1
+    100066: Game_Spine2
+    100068: hair01
+    100070: man_shirt
+    100072: //RootNode
+    400000: body
+    400002: clothing
+    400004: Game_Head
+    400006: Game_Hips
+    400008: Game_LeftArm
+    400010: Game_LeftFoot
+    400012: Game_LeftForeArm
+    400014: Game_LeftHand
+    400016: Game_LeftHandIndex1
+    400018: Game_LeftHandIndex2
+    400020: Game_LeftHandMiddle1
+    400022: Game_LeftHandMiddle2
+    400024: Game_LeftHandThumb1
+    400026: Game_LeftHandThumb2
+    400028: Game_LeftLeg
+    400030: Game_LeftShoulder
+    400032: Game_LeftUpLeg
+    400034: Game_Neck
+    400036: Game_RightArm
+    400038: Game_RightFoot
+    400040: Game_RightForeArm
+    400042: Game_RightHand
+    400044: Game_RightHandIndex1
+    400046: Game_RightHandIndex2
+    400048: Game_RightHandMiddle1
+    400050: Game_RightHandMiddle2
+    400052: Game_RightHandThumb1
+    400054: Game_RightHandThumb2
+    400056: Game_RightLeg
+    400058: Game_RightShoulder
+    400060: Game_RightUpLeg
+    400062: Game_Spine
+    400064: Game_Spine1
+    400066: Game_Spine2
+    400068: hair01
+    400070: man_shirt
+    400072: //RootNode
+    2100000: hair
+    2100002: clothing
+    2100004: skin
+    2100006: white
+    2100008: eyes
+    2100010: mouse
+    2300000: hair01
+    3300000: hair01
+    4300000: hair01
+    4300002: clothing
+    4300004: body
+    9500000: //RootNode
+    13700000: body
+    13700002: clothing
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
