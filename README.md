@@ -16,9 +16,9 @@ We created two modules or scenes in our project:
 USE-CASE:
 
 As for now we did navigation for our college and our department.
-So, whenever a person enters our college gate he/she can select which building he want to go. A 3d-table top AR is displayed to the user. The model is **miniature representation of the buildings**. On **tapping on one of the building** he/she can start **navigating** to the building.
+So, whenever a person enters our college gate he/she can select which building he wants to go. A 3d-table top AR model is displayed to the user. The model is **miniature representation of the buildings**. On **tapping on one of the building** he/she can start **navigating** to the building.
 
 Similarly as the person enters the building and if he wants to navigate to HODs' cabin he can select HOD cabin and green arrows will direct the user towards the HODs' cabin
 
 
-**NOTE:** The application created will only work in high end phones such as s8+,note8, iphone(ios11 and above).
+**NOTE:** The application created will only work on high end phones such as s8+,note8, iphones(ios11 and above).
